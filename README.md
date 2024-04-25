@@ -35,5 +35,5 @@
 
 Этот проект был создан и поддерживается gigachop. 
 Присоединяйтесь к телеграмм каналу чтобы сообщить о найденых багах.
-- **Discord**: [Профиль](https://discordapp.com/users/1025808391173591101/)
-- **Telegram**: [Профиль тг](https://t.me/Gats_Filosof)
+- **Discord**: Профиль: giga_chop
+- **Telegram**: [Профиль тг](https://t.me/giga_chop)
