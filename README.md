@@ -38,3 +38,46 @@
 Этот проект был создан и поддерживается giga_chop. 
 - **Discord**: Профиль: giga_chop
 - **Telegram**: [Профиль тг](https://t.me/giga_chop)
+
+## Поиск по ключевым словам
+
+- Space Station 14 химические рецепты
+- SS14 крафтинг инструмент
+- Автоматизация в Space Station 14
+- Space Station 14 читы
+- Химия в SS14
+- Автоматическая химия для Space Station 14
+- Крафт инструменты для SS14
+- Рецепты Space Station 14
+- SS14 рецепты химии
+- Авто крафт в Space Station 14
+- Программа для химиков в SS14
+- Химический крафтинг Space Station 14
+- Руководства по крафту для SS14
+- SS14 читы
+- SS14 бот
+- Space Station 14 бот
+- Как делать химические смеси в SS14
+- Space Station 14 автоматизация процессов
+- Автоматизация для химиков игры Space Station 14
+
+## Keyword Search
+- Space Station 14 chemical recipes
+- SS14 crafting tool
+- Automation in Space Station 14
+- Space Station 14 cheats
+- Chemistry in SS14
+- Automatic chemistry for Space Station 14
+- Crafting tools for SS14
+- Space Station 14 recipes
+- SS14 chemistry recipes
+- Auto craft in Space Station 14
+- Software for chemists in SS14
+- Chemical crafting Space Station 14
+- Crafting guides for SS14
+- SS14 cheats
+- SS14 bot
+- Space Station 14 bot
+- How to make chemical mixtures in SS14
+- Space Station 14 process automation
+- Automation tools for Space Station 14 chemists
